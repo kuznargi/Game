@@ -1,0 +1,62 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Person.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Menu.cpp
+  Game.cpp
+C:\Users\Anel\source\repos\Person\Person\View.h(20,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\View.h(24,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\View.h(28,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\View.h(32,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(82,44): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Anel\source\repos\Person\Person\Player.h(82,41): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Anel\source\repos\Person\Person\Player.h(112,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(114,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(118,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(120,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(141,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anel\source\repos\Person\Person\Player.h(142,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(151,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anel\source\repos\Person\Person\Player.h(152,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(161,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anel\source\repos\Person\Person\Player.h(162,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(170,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anel\source\repos\Person\Person\Player.h(171,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(200,42): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Anel\source\repos\Person\Person\Player.h(200,39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Anel\source\repos\Person\Person\Player.h(201,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anel\source\repos\Person\Person\Player.h(208,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(209,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(214,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(215,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anel\source\repos\Person\Person\Player.h(216,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Player.h(216,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anel\source\repos\Person\Person\Game.cpp(47,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Game.cpp(79,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Game.cpp(79,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anel\source\repos\Person\Person\Game.cpp(43,8): warning C4101: 'event_play': unreferenced local variable
+C:\Users\Anel\source\repos\Person\Person\Game.cpp(186,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Anel\source\repos\Person\Person\Game.cpp(186,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  Person.vcxproj -> C:\Users\Anel\source\repos\Person\x64\Debug\EXAM.exe
